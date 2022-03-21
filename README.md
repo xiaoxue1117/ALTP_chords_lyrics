@@ -1,10 +1,10 @@
 # ALTP_chords_lyrics
 
 
-Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chord Multi-Task Learning
+### Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chord Multi-Task Learning
 
 
-DATA:
+### DATA:
 
 We release the segmented testsets of Hansen, Jamendo and Mauch for the usage of research for lyrics transcription of polyphonic music.
 
