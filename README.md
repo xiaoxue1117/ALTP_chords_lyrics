@@ -11,11 +11,14 @@ We release the segmented testsets of Hansen, Jamendo and Mauch for the usage of 
 
 If you use the data above, please cite the following papers:
 ```
-@article{gao2021tran,
-  title={Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chords Multi-Task Learning},
+@article{gao2022automatic,
+  title={Automatic Lyrics Transcription of Polyphonic Music With Lyrics-Chord Multi-Task Learning},
   author={Gao, Xiaoxue and Gupta, Chitralekha and Li, Haizhou},
   journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
-  year={2022}
+  volume={30},
+  pages={2280--2294},
+  year={2022},
+  publisher={IEEE}
 }
 
 @inproceedings{gao2022genre,
